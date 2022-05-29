@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "614626711169",
+    "project_id": "madprac6-database",
+    "storage_bucket": "madprac6-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614626711169:android:9e0fb6e4924221734f9f80",
+        "android_client_info": {
+          "package_name": "sg.edu.np.madpractical2_zixian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614626711169-tj5ujk41pvfhq8oinm9bakscgtf0g2b1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbLjGs3cA6m6CeQHq-5ccHgnb7ig81ib4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614626711169-tj5ujk41pvfhq8oinm9bakscgtf0g2b1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
